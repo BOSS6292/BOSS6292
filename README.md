@@ -10,15 +10,13 @@
 <a href="https://linkedin.com/in/tejas-bomble-127403214" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/tejas_bomble" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
   
 
 
 
 ### Glad to see you here!  
-I’m an Android developer. Being an Android Developer allows me to not only develop client-facing apps but also develop them with cutting-edge backend support. I specialize in building robust kotlin backends that do all the heavy lifting for your app or website. I love designing systems that are light yet powerful, distributed yet synchronized and beautiful yet effective.
+I'm a cross-platform app developer specializing in Flutter and Dart. With a strong foundation in Data Structures and Algorithms (DSA) and problem-solving skills, I build robust applications that work seamlessly across different platforms. I also have knowledge of native Android app development.
 
 💼 Android Developer
 
@@ -27,8 +25,6 @@ I’m an Android developer. Being an Android Developer allows me to not only dev
 📱 Mobile App developer.
 
 👨‍💻 Mostly working on ❤️Android ❤️Kotlin 🔥Firebase!
-
-🌐 Little bit exploring Web development too.  
   
 
 <br/>  
@@ -43,7 +39,7 @@ I’m an Android developer. Being an Android Developer allows me to not only dev
 - 🌱 I’m currently learning Kotlin and DSA  
   
 
-- ❓ Ask me about anything related to Kotlin and related technologies (Android Development)  
+- ❓ Ask me about anything related to Flutter and related technologies (Android Development)  
   
 
 - ⚡ Fun fact: I keep night shift swithed on at all times   
@@ -94,17 +90,6 @@ I’m an Android developer. Being an Android Developer allows me to not only dev
 
 <br/>  
 
-
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=BOSS6292&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BOSS6292&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
 
 <br/>  
 
