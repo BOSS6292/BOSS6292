@@ -24,38 +24,27 @@ I'm a cross-platform app developer specializing in Flutter and Dart. With a stro
 
 📱 Mobile App developer.
 
-👨‍💻 Mostly working on ❤️Android ❤️Kotlin 🔥Firebase!
+👨‍💻 Mostly working on Android (Flutter) ❤️!
   
 
 <br/>  
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/BOSS6292/HashApp)  
+- 🔭 I’m currently working on [Earthquake Info App](https://github.com/BOSS6292/EarthquakeInfo)  
   
 
-- 🌱 I’m currently learning Kotlin and DSA  
+- 🌱 I’m Computer Engineer  
   
 
-- ❓ Ask me about anything related to Flutter and related technologies (Android Development)  
-  
+- ❓ Ask me about anything related to Flutter and related technologies!
 
-- ⚡ Fun fact: I keep night shift swithed on at all times   
-
-
+   
 </td><td valign="top" width="50%">
 
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-
-
-</td></tr></table>  
-
-<br/>  
-
+</div> 
 
 ## Languages and Tools  
 <div align="center">  
@@ -98,16 +87,5 @@ I'm a cross-platform app developer specializing in Flutter and Dart. With a stro
 <br/>  
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=BOSS6292&&style=flat-square)  
-  
-
-<br/>  
-
-  
-
-<br/>  
 
 
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
