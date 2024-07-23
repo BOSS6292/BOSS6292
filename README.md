@@ -31,7 +31,7 @@ I'm a cross-platform app developer specializing in Flutter and Dart. With a stro
 
 
 ## Rapidfire  
-- 🔭 I’m currently working on [Earthquake Info App](https://github.com/BOSS6292/EarthquakeInfo)  
+- 🔭 I’m currently working on [E-Commerce App](https://github.com/BOSS6292/ShopAtoZ)  
   
 
 - 🌱 I’m Computer Engineer  
