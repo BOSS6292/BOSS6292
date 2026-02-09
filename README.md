@@ -16,28 +16,40 @@
 
 
 ### Glad to see you here!  
-I'm a cross-platform app developer specializing in Flutter and Dart. With a strong foundation in Data Structures and Algorithms (DSA) and problem-solving skills, I build robust applications that work seamlessly across different platforms. I also have knowledge of native Android app development.
+I’m an aspiring Data Engineer focused on building scalable data pipelines and working with modern cloud data tools.
+My work centers around SQL, Snowflake, AWS, and pipeline orchestration using Apache NiFi and Docker.
 
-💼 Android Developer
+I have a strong foundation in Data Structures, SQL, and problem solving, and I actively build end-to-end projects that simulate production-style data workflows.
+My background in Android and Flutter development strengthens my software engineering fundamentals and system thinking.
 
-👨‍💻 #SelfTaught Developer.
-
-📱 Mobile App developer.
-
-👨‍💻 Mostly working on Android (Flutter) ❤️!
+💼 Focused on Data Engineering
+👨‍💻 Building real-time and batch data pipelines
+📊 Practicing SQL & DSA regularly
+🚀 Exploring cloud-native data architectures
   
 
 <br/>  
 
 
 ## Rapidfire  
-- 🔭 I’m currently working on [E-Commerce App](https://github.com/BOSS6292/ShopAtoZ)  
-  
+🔭 Currently building and improving data pipeline projects
 
-- 🌱 I’m Computer Engineer  
-  
+🌱 Computer Engineering Graduate (2023)
 
-- ❓ Ask me about anything related to Flutter and related technologies!
+❓ Ask me about SQL, Snowflake, Data Pipelines, or NiFi
+
+<br/>  
+
+
+## Supporting Experience
+
+Android / Kotlin
+
+Flutter / Dart
+
+MongoDB / MySQL / PostgreSQL
+
+Firebase
 
    
 </td><td valign="top" width="50%">
